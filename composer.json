@@ -21,12 +21,6 @@
             "type":"composer",
             "url":"http://wpackagist.org"
         }
-  ],
-  "repositories":[
-        {
-            "type":"composer",
-            "url":"http://wpackagist.org"
-        }
     ],
   "require": {
     "php": ">=5.2",
