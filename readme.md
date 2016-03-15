@@ -27,11 +27,12 @@
  	* [Anti-Malware Security and Brute-Force Firewall](gotmls)
  	* [BackWPup Free - WordPress Backup Plugin](#backwpup)
 	* [Broken Link Checker](#broken-link-checker)
- 
+
+--- 
 
 ###Internal Links
 
-#####[Auto Load Next Post](https://wordpress.org/plugins/auto-load-next-post/)
+####[Auto Load Next Post](https://wordpress.org/plugins/auto-load-next-post/)
 Simply auto loads the next post as you scroll down the page. Also changes the browser URL address and page title from the next post. [More details on wordpress.org](https://wordpress.org/plugins/auto-load-next-post/)
 
 --
@@ -55,7 +56,7 @@ The Rich Text Tags Plugin allows you to edit tag, category, and taxonomy descrip
 Simple Yearly Archive is a rather neat and simple WordPress plugin that allows you to display your archives in a year-based list. [More details on wordpress.org](https://wordpress.org/plugins/simple-yearly-archive/)
 
 
-###Sitemap
+##Sitemap
 
 ####[Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/)This plugin will generate a special XML Sitemap which will help search engines to better index your blog. [More details on wordpress.org](https://wordpress.org/plugins/google-sitemap-generator/)
 
