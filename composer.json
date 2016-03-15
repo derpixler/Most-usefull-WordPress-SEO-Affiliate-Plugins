@@ -24,7 +24,7 @@
     ],
   "require": {
     "php": ">=5.2",
-	"mnsami/composer-custom-directory-installer": "1.1.*",
+    "mnsami/composer-custom-directory-installer": "1.1.*",
     "wpackagist-plugin/auto-load-next-post": "1.4.5",
     "wpackagist-plugin/automatic-post-tagger": "1.8.2",
     "wpackagist-plugin/table-of-contents-plus": "1601",
