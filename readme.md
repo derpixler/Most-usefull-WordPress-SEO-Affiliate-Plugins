@@ -1,5 +1,5 @@
 #Most usefull WordPress SEO / Affiliate Plugins
-**by [René Reimann](http://www.rene-reimann.de) inspired by [Hans Jung](https://hansjung.de/)**	 
+**by [René Reimann](http://www.rene-reimann.de)** inspired by [Hans Jung](https://hansjung.de/) 
 
 If you want using composer to install all the WordPress plugins from this list, read the  [howto use composer](https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins/blob/master/howto-use-composer-to-install-wordpress-plugins.md). 
 
