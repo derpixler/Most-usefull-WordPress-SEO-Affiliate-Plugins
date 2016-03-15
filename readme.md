@@ -1,28 +1,28 @@
 #Most usefull WordPress SEO / Affiliate Plugins
 **by [René Reimann](http://www.rene-reimann.de) inspired by [Hans Jung](https://hansjung.de/)**	 
  
- * [Internal Links](#internal-links)
+ * **[Internal Links](#internal-links)**
 	* [Auto Load Next Post](#auto-load-next-post)
  	* [Automatic Post Tagger](#automatic-post-tagger)
  	* [Table of Contents Plus](#table-of-contents-plus)
  	* [Rich Text Tags](#rich-text-tags)
  	* [Simple Yearly Archive](#simple-yearly-archive)
- * [Sitemap](#sitemap)
+ * **[Sitemap](#sitemap)**
 	* [Google XML Sitemaps](#google-sitemap-generator)
- * [Head Modification](#head-modification)	
+ * **[Head Modification](#head-modification)**	
  	* [If Modified Since HTTP Header](#if-modified-since-header)
 	* [Add Headers](#add-headers)
- * [Images](#images)
+ * **[Images](#images)**
  	* [Image Lazy Load](#image-lazy-load)
 	* [Easy Affiliate Links](#easy-affiliate-links)
- * [Affiliate](#affiliate)
+ * **[Affiliate](#affiliate)
 	* [Easy Affiliate Links](#easy-affiliate-links)
 	* [ThirstyAffiliates](#thirstyaffiliates)	
- * [Optimazion](#optimazion)
+ * **[Optimazion](#optimazion)**
  	* [Ultimate Nofollow](#nofollow)
  	* [Schema Creator by Raven](#schema-creator)
  	* [Autoptimize](#autoptimize)
- * [Security and Maintenance](#security-and-maintenance)
+ * **[Security and Maintenance](#security-and-maintenance)**
  	* [Search & Replace](#search-and-replace)
  	* [Anti-Malware Security and Brute-Force Firewall](gotmls)
  	* [BackWPup Free - WordPress Backup Plugin](#backwpup)
