@@ -20,13 +20,13 @@
 	* [ThirstyAffiliates](#thirstyaffiliates)	
  * [Optimazion](#optimazion)
  	* [Ultimate Nofollow](#nofollow)
- 	* Schema Creator by Raven](#schema-creator)
+ 	* [Schema Creator by Raven](#schema-creator)
  	* [Autoptimize](#autoptimize)
  * [Security and Maintenance](#security-and-maintenance)
  	* [Search & Replace](#search-and-replace)
  	* [Anti-Malware Security and Brute-Force Firewall](gotmls)
  	* [BackWPup Free - WordPress Backup Plugin](#backwpup)
-	* Broken Link Checker](#broken-link-checker)
+	* [Broken Link Checker](#broken-link-checker)
  
 
 ###Internal Links
