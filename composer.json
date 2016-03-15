@@ -24,7 +24,7 @@
     ],
   "require": {
     "php": ">=5.2",
-    "mnsami/composer-custom-directory-installer": "1.1.*",
+	"mnsami/composer-custom-directory-installer": "1.1.*",
     "wpackagist-plugin/auto-load-next-post": "1.4.5",
     "wpackagist-plugin/automatic-post-tagger": "1.8.2",
     "wpackagist-plugin/table-of-contents-plus": "1601",
@@ -33,12 +33,24 @@
     "wpackagist-plugin/easy-affiliate-links": "1.2",
     "wpackagist-plugin/autoptimize": "2.0.1",
     "wpackagist-plugin/thirstyaffiliates-for-foogallery-extension": "1.0.1",
-    "wpackagist-plugin/nofollow": "1.4.4"
+    "wpackagist-plugin/nofollow": "1.4.4",
+    "wpackagist-plugin/google-sitemap-generator": "4.0.7.1",
+    "wpackagist-plugin/if-modified-since-header": "1.2.3",
+    "wpackagist-plugin/add-headers": "2.0.0",
+    "wpackagist-plugin/responsify-wp": "1.9.6",
+    "wpackagist-plugin/broken-link-checker": "1.10.10",
+    "wpackagist-plugin/search-and-replace": "3.0.1",
+    "wpackagist-plugin/image-lazy-load": "1.0.9",
+    "wpackagist-plugin/gotmls": "4.15.49",
+    "wpackagist-plugin/backwpup": "3.2.5"
+	
   },
   "extra": {
       "installer-paths":
       {
-          "./{$name}": ["type:wordpress-plugin"]
+          "./{$name}": [
+			  "type:wordpress-plugin"
+		  ]
       }
   }
 }
