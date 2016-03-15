@@ -9,7 +9,7 @@ mv composer.phar /usr/local/bin/composer
 ```
 --
 
-####2. Clone this reposetory
+####2. [Clone this reposetory](https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins/blob/master/composer.json)
 You have to clone this reposetory in your WordPress `plugins/` folder.
 
 `git clone git@github.com:derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins.git`
