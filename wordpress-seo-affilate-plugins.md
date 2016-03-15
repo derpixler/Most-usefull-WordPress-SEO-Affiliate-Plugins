@@ -3,7 +3,7 @@ Simply auto loads the next post as you scroll down the page. Also changes the br
 https://wordpress.org/plugins/auto-load-next-post/
 > Composer package: "wpackagist-plugin/auto-load-next-post": "1.4.5"
 
----
+----
 
 ###[Automatic Post Tagger](https://wordpress.org/plugins/automatic-post-tagger/)
 Adds relevant taxonomy terms to posts using a keyword list provided by the user.
