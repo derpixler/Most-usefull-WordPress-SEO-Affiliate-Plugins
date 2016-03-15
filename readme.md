@@ -21,7 +21,7 @@ If you want using composer to install all the WordPress plugins from this list, 
  * **[Images](#images)**
  	* [Image Lazy Load](#image-lazy-load)
 	* [Easy Affiliate Links](#easy-affiliate-links)
- * **[Affiliate](#affiliate)
+ * **[Affiliate](#affiliate)**
 	* [Easy Affiliate Links](#easy-affiliate-links)
 	* [ThirstyAffiliates](#thirstyaffiliates)	
  * **[Optimazion](#optimazion)**
