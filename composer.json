@@ -16,6 +16,18 @@
   "support": {
     "docs": "https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins"
   },
+  "repositories":[
+        {
+            "type":"composer",
+            "url":"http://wpackagist.org"
+        }
+  ],
+  "repositories":[
+        {
+            "type":"composer",
+            "url":"http://wpackagist.org"
+        }
+    ],
   "require": {
     "php": ">=5.2",
     "wpackagist-plugin/auto-load-next-post": "1.4.5",
