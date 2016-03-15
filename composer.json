@@ -10,7 +10,7 @@
       "name": "Rene Reimann",
       "homepage": "http://rene-reimann.de",
       "email": "info@rene-reimann.de",
-      "role": "author	"
+      "role": "author"
     }
   ],
   "support": {
@@ -24,6 +24,7 @@
     ],
   "require": {
     "php": ">=5.2",
+	"mnsami/composer-custom-directory-installer": "1.1.*",
     "wpackagist-plugin/auto-load-next-post": "1.4.5",
     "wpackagist-plugin/automatic-post-tagger": "1.8.2",
     "wpackagist-plugin/table-of-contents-plus": "1601",
@@ -33,5 +34,11 @@
     "wpackagist-plugin/autoptimize": "2.0.1",
     "wpackagist-plugin/thirstyaffiliates-for-foogallery-extension": "1.0.1",
     "wpackagist-plugin/nofollow": "1.4.4"
+  },
+  "extra": {
+      "installer-paths":
+      {
+          "./{$name}": ["type:wordpress-plugin"]
+      }
   }
 }
