@@ -58,7 +58,8 @@ Simple Yearly Archive is a rather neat and simple WordPress plugin that allows y
 
 ##Sitemap
 
-####[Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/)This plugin will generate a special XML Sitemap which will help search engines to better index your blog. [More details on wordpress.org](https://wordpress.org/plugins/google-sitemap-generator/)
+####[Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/)
+This plugin will generate a special XML Sitemap which will help search engines to better index your blog. [More details on wordpress.org](https://wordpress.org/plugins/google-sitemap-generator/)
 
 ##Head modification
 
