@@ -1,3 +1,5 @@
+*d*
+
 ###[Auto Load Next Post](https://wordpress.org/plugins/auto-load-next-post/)
 Simply auto loads the next post as you scroll down the page. Also changes the browser URL address and page title from the next post.
 https://wordpress.org/plugins/auto-load-next-post/
