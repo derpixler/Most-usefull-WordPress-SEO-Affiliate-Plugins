@@ -3,9 +3,9 @@
 
 If you want using composer to install all the WordPress plugins from this list, read the  [howto use composer](https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins/blob/master/howto-use-composer-to-install-wordpress-plugins.md). 
 
-**Feel free to share this with the world, [send me a simple mail](info@rene-reimann.de) or leave a issue.**
-[Twitter](https://twitter.com/home?status=useful%20%23WordPress%20Plugins%20ready%20for%20install%20with%20%23composer%20thanks%20%40DerPixler%20https%3A//goo.gl/mYbXSF) 
+[Feel free share this with the world](https://twitter.com/home?status=useful%20%23WordPress%20Plugins%20ready%20for%20install%20with%20%23composer%20thanks%20%40DerPixler%20https%3A//goo.gl/mYbXSF) , [send me a simple mail](info@rene-reimann.de) or leave a issue.
 
+--
  
  * **[Internal Links](#internal-links)**
 	* [Auto Load Next Post](#auto-load-next-post)
