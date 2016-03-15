@@ -1,4 +1,4 @@
-#Most usefull WordPress SEO / Affiliate Plugins
+#Most useful WordPress SEO / Affiliate Plugins
 **by [René Reimann](http://www.rene-reimann.de)**	 
  
  * [Auto Load Next Post](#auto-load-next-post)
