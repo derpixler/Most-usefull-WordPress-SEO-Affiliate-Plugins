@@ -1,0 +1,31 @@
+{
+  "name": "Most usefull WordPress SEO / Affiliate Plugins",
+  "description": "You get a set of useful plugins for optimal SEO",
+  "keywords"   : ["wordpress", "plugins", "seo", "affiliate"],
+  "license": "GPL-3.0+",
+  "type": "wordpress-package",
+  "homepage": "https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins",
+  "authors": [
+    {
+      "name": "Rene Reimann",
+      "homepage": "http://rene-reimann.de",
+      "email": "info@rene-reimann.de",
+      "role": "author	"
+    }
+  ],
+  "support": {
+    "docs": "https://github.com/derpixler/Most-usefull-WordPress-SEO-Affiliate-Plugins"
+  },
+  "require": {
+    "php": ">=5.2"
+    "wpackagist-plugin/auto-load-next-post": "1.4.5"
+    "wpackagist-plugin/automatic-post-tagger": "1.8.2"
+    "wpackagist-plugin/table-of-contents-plus": "1601"
+    "wpackagist-plugin/rich-text-tags": "1.7.3"
+    "wpackagist-plugin/schema-creator": "1.1.1"
+    "wpackagist-plugin/easy-affiliate-links": "1.2"
+    "wpackagist-plugin/autoptimize": "2.0.1"
+    "wpackagist-plugin/thirstyaffiliates-for-foogallery-extension": "1.0.1"
+    "wpackagist-plugin/nofollow": "1.4.4"
+  }
+}
